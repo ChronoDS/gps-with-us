@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fd51662-fd20-4d2b-afe5-a5f648d37ddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/main.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/navigation.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
-    </list>
+    <list default="true" id="0fd51662-fd20-4d2b-afe5-a5f648d37ddf" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,12 +63,24 @@
       <option name="presentableId" value="Default" />
       <updated>1590063012468</updated>
       <workItem from="1590063014767" duration="2207000" />
-      <workItem from="1678526401773" duration="991000" />
+      <workItem from="1678526401773" duration="1291000" />
     </task>
+    <task id="LOCAL‎-00001" summary="updated react, react-dom &amp; migrated to react-scripts 3.4.2.">
+      <created>1678527727359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1678527727359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated react, react-dom &amp; migrated to react-scripts 3.4.2." />
+    <option name="LAST_COMMIT_MESSAGE" value="updated react, react-dom &amp; migrated to react-scripts 3.4.2." />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="284" key="Github.ShareDialog" timestamp="1590063173452">
