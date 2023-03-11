@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+latest updates are mainly for security reasons, and for the sake of not missing any critical security alerts - nothing more.
+
 ## Available Scripts
 
 In the project directory, you can run:
